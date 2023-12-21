@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Below are my badges received by participating in Hactoberfest 2022.
+[![An image of @anillande90's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anillande90)](https://holopin.io/@anillande90)
 
 [![@anillande90's Holopin board](https://holopin.me/anillande90)](https://holopin.io/@anillande90)
 
